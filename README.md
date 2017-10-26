@@ -2,7 +2,7 @@
 # Information
 ## Game Title
 lord of the rings battle for middle earth 2
-Full title of the game.
+
 ## Game Type 
 strategy 
 ## Platform
@@ -16,7 +16,6 @@ EA Los Angeles
 ## Publishing Date
 July 5, 2006
 # Synopsis
-Game premise or short one to two sentence overview
 The Lord of the Rings: The Battle for Middle-earth II is a strategy video game set in real time. It is a compliation of the books Lord of The rings and the Hobbit. 
 # Game Play Summary An open world strategy game similar to Starcraft, Battle for Middle Earth pits Good against Evil. You have the option to be good or bad by either protecting Middle Earth or be bad by destroying it.
 
